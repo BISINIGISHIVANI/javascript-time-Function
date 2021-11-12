@@ -1,0 +1,13 @@
+#demo{
+  border: 1px solid pink;
+  box-sizing: content-box;
+  width:6rem;
+  padding:1rem 1rem;
+  font-family: sans-serif;
+  color:greenyellow;
+  background-color:darksalmon;
+  margin: 2rem auto;
+}
+body{
+  text-align: center;
+}
